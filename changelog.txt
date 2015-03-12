@@ -1,0 +1,17 @@
+CHANGELOG | 1.0.2
+
+
+# Localization
+	- 404 error message added to notesblog.po
+	- Search finds nothing added to notesblog.po
+
+# Added language support in Core package
+	- German (de_DE)
+	- French (fr_FR)
+	- Polish (pl_PL)
+	- Turkish (tr_TR)
+
+# Bug fixes
+	- Internet Explorer 6 render issue with footer fixed
+	- Internet Explorer 7 possible overflow issue fixed
+	- Spelling error in style.css fixes
